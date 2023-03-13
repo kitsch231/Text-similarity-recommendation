@@ -1,0 +1,10 @@
+emoji==2.2.0
+jieba==0.42.1
+numpy==1.23.2
+opencv_python_headless==4.7.0.68
+pandas==1.5.2
+Pillow==9.4.0
+scikit_learn==1.2.1
+tensorboardX==2.6
+tqdm==4.64.1
+transformers==4.25.1
